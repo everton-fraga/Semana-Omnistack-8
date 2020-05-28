@@ -1,2 +1,2 @@
-1º arquivo de teste
-só mais um teste
+const x = '1º arquivo de teste';
+const y = 'só mais um teste';
